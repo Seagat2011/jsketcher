@@ -3,8 +3,8 @@ JS.Sketcher
 
 JS.Sketcher is a **parametric** 2D and 3D CAD modeler written in pure javascript
 <a href='https://www.youtube.com/watch?v=Vk3TTp8hNxQ&list=PLeoCiKHizvH8PZEyFvThHzVlnTF5XaL-R'> 
-  <img src='../../wiki/img/sample2d.png' width='400px'>
-  <img src='../../wiki/img/sample3d.png' width='400px'> 
+  <img src='https://github.com/xibyte/jsketcher/wiki/img/sample2d.png' width='400px'>
+  <img src='https://github.com/xibyte/jsketcher/wiki/img/sample3d.png' width='400px'> 
 </a>
 
 [YouTube Tutorial Video](https://www.youtube.com/watch?v=Vk3TTp8hNxQ&list=PLeoCiKHizvH8PZEyFvThHzVlnTF5XaL-R)
@@ -14,8 +14,6 @@ JS.Sketcher is a **parametric** 2D and 3D CAD modeler written in pure javascript
 [2D Sketcher](http://web-cad.org/sketcher.html#__sample2D__)
 
 [Help Docs](./web/docs/index.md)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=WADW7V7CC32CY&lc=US&item_name=web%2dcad%2eorg&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)
 
 Current Status
 ==============
